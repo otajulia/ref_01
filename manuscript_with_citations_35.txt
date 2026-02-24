@@ -1,0 +1,50 @@
+TITLE
+Association between Comprehensive Physical Fitness Tiers and Annual Healthcare Expenditures: A Nationally Linked Study of Korean Adults and Older Adults
+
+ABSTRACT
+Background: Insufficient physical activity is associated with higher risk of chronic disease and premature mortality, and is linked to substantial healthcare spending [1-7]. Cardiorespiratory fitness (CRF) is increasingly treated as a clinical vital sign because it predicts major outcomes beyond traditional risk factors [8-12]. However, evidence connecting comprehensive, objectively measured fitness profiles (health-related and skill-related domains together) to real-world national claims expenditure remains limited.
+Methods: We conducted a retrospective cohort study by linking National Fitness Award 100 (NFA100) data with National Health Insurance Service (NHIS) administrative databases [30-34]. Participants were categorized into four comprehensive fitness tiers. Primary outcome was total reimbursed healthcare expenditure during 12 months after the fitness assessment. We modeled expenditure using generalized linear models (gamma family, log link), which is recommended for right-skewed cost outcomes [29].
+Results: Annual healthcare expenditure showed an inverse dose-response across fitness tiers. The expenditure gradient was steeper in older adults than in adults, and skill-related functional tests (mobility/agility) showed strong associations with cost differences.
+Conclusions: Higher comprehensive fitness was associated with lower subsequent healthcare expenditures. Findings support integrating multidomain fitness surveillance into national prevention strategy and fiscal planning for aging populations.
+
+KEYWORDS
+Comprehensive physical fitness; National Fitness Award 100; NHIS claims; healthcare expenditure; data linkage.
+
+BACKGROUND
+Systematic reviews and large meta-analyses consistently show that low physical activity increases the burden of non-communicable disease and mortality [1-4]. Economic evaluations also show that physical inactivity contributes meaningfully to healthcare expenditure at both national and global levels [5-7]. The WHO 2020 guideline reinforces this by recommending regular moderate-to-vigorous activity across adulthood and older age [8].
+
+Physical fitness, especially CRF, has strong prognostic value and has been proposed as a routine clinical vital sign [9]. Classic and contemporary cohort evidence demonstrates that higher fitness is associated with lower mortality risk [10-12]. Importantly for policy, higher CRF has also been associated with lower downstream healthcare costs, including among people with cardiometabolic risk and diabetes [13-15]. Population studies further show that inactivity is associated with higher healthcare utilization [16].
+
+Among fitness components, muscular strength (handgrip) is a robust predictor of adverse outcomes, including mortality and cardiovascular events [17,18]. Recent cost-focused evidence also indicates that weak grip strength and slow Timed Up-and-Go (TUG) performance predict higher hospitalization costs in older adults [19]. Functional mobility constructs measured by TUG, 6-minute walk, gait speed, and curved-path walking tests are clinically meaningful and linked to adverse outcomes relevant to healthcare utilization [20-23]. Exercise interventions emphasizing balance and functional movement reduce falls [24], and falls are a major cost driver in older populations [25].
+
+Frailty science suggests that declining physiological reserve drives disproportionate vulnerability to high-cost events [26-28]. Despite this rationale, few national studies have examined whether a comprehensive and objective fitness grading system predicts real-world medical expenditure in both adults and older adults.
+
+METHODS
+Study design and data sources
+We used linked national datasets covering 2015-2022. Claims, eligibility, and screening variables were derived from NHIS data infrastructures and established cohort frameworks [30-32]. Fitness variables were obtained from the NFA100 system; prior NFA studies support the validity and utility of these functional fitness measures in Korean populations [33,34].
+
+Study population and exposure
+Participants who completed standardized NFA100 assessments and were linkable to NHIS records were eligible. Comprehensive fitness tiers were defined from age- and sex-standardized criteria integrating health-related and skill-related tests.
+
+Outcome and covariates
+Primary endpoint was total annual reimbursed healthcare expenditure (inpatient + outpatient) in the 12 months after index fitness testing. Models adjusted for demographic, socioeconomic, behavioral, and comorbidity covariates available in NHIS data [30-32].
+
+Statistical analysis
+Because expenditure distributions were right-skewed, we used a GLM with gamma distribution and log link, consistent with established health-econometric recommendations [29]. We estimated adjusted mean costs by fitness tier and tested linear trends.
+
+Ethics
+The study protocol followed the Declaration of Helsinki principles [35] and used de-identified administrative linkage under institutional approval.
+
+DISCUSSION
+This analysis shows a graded inverse association between comprehensive fitness and subsequent healthcare expenditure. The pattern is consistent with earlier evidence that higher CRF is associated with lower long-term medical costs [13-15], and with population-level inactivity studies showing higher utilization and expenditure among less active groups [6,7,16].
+
+Our component-level findings align with literature highlighting grip strength as a clinically meaningful marker [17,18], and with recent evidence linking weak grip and slow TUG to higher hospitalization costs [19]. Mobility and balance results are also biologically plausible given established links between functional performance, falls, and downstream medical spending [20-25].
+
+The observed stronger gradient in older adults is consistent with frailty frameworks, where loss of reserve amplifies risk and utilization after stressors [26-28]. From a policy perspective, comprehensive fitness assessment may provide a practical risk-stratification tool that complements claims-based chronic disease indicators.
+
+LIMITATIONS
+As an observational design, residual confounding and reverse causation remain possible. Claims data capture reimbursed spending and may underrepresent non-covered costs. Voluntary participation in NFA100 can introduce selection effects.
+
+CONCLUSION
+Comprehensive physical fitness tiers were inversely associated with annual healthcare expenditures, with larger absolute differences in older adults. National prevention strategy may benefit from combining health-related and skill-related fitness surveillance to improve healthy longevity and reduce fiscal pressure on healthcare systems.
+
